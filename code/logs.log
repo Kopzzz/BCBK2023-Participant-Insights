@@ -1675,3 +1675,73 @@
 2023-02-04 23:07:05,285:INFO:Copying data
 2023-02-04 23:07:05,288:INFO:(267, 198)
 2023-02-04 23:07:05,288:INFO:assign_model() succesfully completed......................................
+2023-02-04 23:31:40,315:INFO:Initializing assign_model()
+2023-02-04 23:31:40,317:INFO:assign_model(model=KMeans(algorithm='auto', copy_x=True, init='k-means++', max_iter=300,
+       n_clusters=4, n_init=10, n_jobs=-1, precompute_distances='deprecated',
+       random_state=7985, tol=0.0001, verbose=0), transformation=False, score=True, verbose=True)
+2023-02-04 23:31:40,319:INFO:Checking exceptions
+2023-02-04 23:31:40,320:INFO:Determining Trained Model
+2023-02-04 23:31:40,323:INFO:Trained Model : K-Means Clustering
+2023-02-04 23:31:40,324:INFO:Copying data
+2023-02-04 23:31:40,329:INFO:(267, 198)
+2023-02-04 23:31:40,329:INFO:assign_model() succesfully completed......................................
+2023-02-04 23:31:54,562:INFO:Initializing assign_model()
+2023-02-04 23:31:54,563:INFO:assign_model(model=KMeans(algorithm='auto', copy_x=True, init='k-means++', max_iter=300,
+       n_clusters=4, n_init=10, n_jobs=-1, precompute_distances='deprecated',
+       random_state=7985, tol=0.0001, verbose=0), transformation=False, score=True, verbose=True)
+2023-02-04 23:31:54,563:INFO:Checking exceptions
+2023-02-04 23:31:54,563:INFO:Determining Trained Model
+2023-02-04 23:31:54,563:INFO:Trained Model : K-Means Clustering
+2023-02-04 23:31:54,563:INFO:Copying data
+2023-02-04 23:31:54,565:INFO:(267, 198)
+2023-02-04 23:31:54,565:INFO:assign_model() succesfully completed......................................
+2023-02-04 23:33:44,193:INFO:Initializing assign_model()
+2023-02-04 23:33:44,193:INFO:assign_model(model=KMeans(algorithm='auto', copy_x=True, init='k-means++', max_iter=300,
+       n_clusters=4, n_init=10, n_jobs=-1, precompute_distances='deprecated',
+       random_state=7985, tol=0.0001, verbose=0), transformation=False, score=True, verbose=True)
+2023-02-04 23:33:44,194:INFO:Checking exceptions
+2023-02-04 23:33:44,194:INFO:Determining Trained Model
+2023-02-04 23:33:44,194:INFO:Trained Model : K-Means Clustering
+2023-02-04 23:33:44,194:INFO:Copying data
+2023-02-04 23:33:44,196:INFO:(267, 198)
+2023-02-04 23:33:44,197:INFO:assign_model() succesfully completed......................................
+2023-02-04 23:37:58,076:INFO:Initializing assign_model()
+2023-02-04 23:37:58,076:INFO:assign_model(model=KMeans(algorithm='auto', copy_x=True, init='k-means++', max_iter=300,
+       n_clusters=4, n_init=10, n_jobs=-1, precompute_distances='deprecated',
+       random_state=7985, tol=0.0001, verbose=0), transformation=False, score=True, verbose=True)
+2023-02-04 23:37:58,076:INFO:Checking exceptions
+2023-02-04 23:37:58,077:INFO:Determining Trained Model
+2023-02-04 23:37:58,077:INFO:Trained Model : K-Means Clustering
+2023-02-04 23:37:58,077:INFO:Copying data
+2023-02-04 23:37:58,081:INFO:(267, 198)
+2023-02-04 23:37:58,081:INFO:assign_model() succesfully completed......................................
+2023-02-04 23:53:51,360:INFO:Initializing assign_model()
+2023-02-04 23:53:51,360:INFO:assign_model(model=KMeans(algorithm='auto', copy_x=True, init='k-means++', max_iter=300,
+       n_clusters=4, n_init=10, n_jobs=-1, precompute_distances='deprecated',
+       random_state=7985, tol=0.0001, verbose=0), transformation=False, score=True, verbose=True)
+2023-02-04 23:53:51,360:INFO:Checking exceptions
+2023-02-04 23:53:51,360:INFO:Determining Trained Model
+2023-02-04 23:53:51,361:INFO:Trained Model : K-Means Clustering
+2023-02-04 23:53:51,361:INFO:Copying data
+2023-02-04 23:53:51,363:INFO:(267, 198)
+2023-02-04 23:53:51,363:INFO:assign_model() succesfully completed......................................
+2023-02-04 23:53:56,567:INFO:Initializing assign_model()
+2023-02-04 23:53:56,568:INFO:assign_model(model=KMeans(algorithm='auto', copy_x=True, init='k-means++', max_iter=300,
+       n_clusters=4, n_init=10, n_jobs=-1, precompute_distances='deprecated',
+       random_state=7985, tol=0.0001, verbose=0), transformation=False, score=True, verbose=True)
+2023-02-04 23:53:56,568:INFO:Checking exceptions
+2023-02-04 23:53:56,568:INFO:Determining Trained Model
+2023-02-04 23:53:56,568:INFO:Trained Model : K-Means Clustering
+2023-02-04 23:53:56,568:INFO:Copying data
+2023-02-04 23:53:56,570:INFO:(267, 198)
+2023-02-04 23:53:56,570:INFO:assign_model() succesfully completed......................................
+2023-02-04 23:57:59,951:INFO:Initializing assign_model()
+2023-02-04 23:57:59,951:INFO:assign_model(model=KMeans(algorithm='auto', copy_x=True, init='k-means++', max_iter=300,
+       n_clusters=4, n_init=10, n_jobs=-1, precompute_distances='deprecated',
+       random_state=7985, tol=0.0001, verbose=0), transformation=False, score=True, verbose=True)
+2023-02-04 23:57:59,952:INFO:Checking exceptions
+2023-02-04 23:57:59,953:INFO:Determining Trained Model
+2023-02-04 23:57:59,953:INFO:Trained Model : K-Means Clustering
+2023-02-04 23:57:59,953:INFO:Copying data
+2023-02-04 23:57:59,955:INFO:(267, 198)
+2023-02-04 23:57:59,956:INFO:assign_model() succesfully completed......................................
